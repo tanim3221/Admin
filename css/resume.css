@@ -3,7 +3,28 @@
  * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
+.button-icche {
+    color: #444444;
+    background: #F3F3F3;
+    border: 1px #DADADA solid;
+    padding: 5px 10px;
+    border-radius: 2px;
+    font-weight: bold;
+    font-size: 9pt;
+	    margin-bottom: 10px;
+    outline: none;
+}
 
+.button-icche:hover {
+    border: 1px #C6C6C6 solid;
+    box-shadow: 1px 1px 1px #EAEAEA;
+    color: #333333;
+    background: #F7F7F7;
+}
+
+.button-icche:active {
+    box-shadow: inset 1px 1px 1px #DFDFDF;   
+}
 body {
  font-family: 'Hind Siliguri', sans-serif;
   padding-top: 54px;
